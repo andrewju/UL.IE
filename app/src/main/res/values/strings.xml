@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UL.IE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to UL Mobile App</string>
+    <string name="welcome_button">Enter!</string>
+    <string name="title_activity_first_time_user">FirstTimeUserActivity</string>
+    <string name="first_time_user">New User Guide</string>
+    <string name="app_install_notice">Please make sure you have the Microsoft Outlook App installed, click the button below to test if you have installed or not.</string>
+    <string name="student_id_setup">Please provide your student ID now, make sure it\'s correct!</string>
+    <string name="test_button_text">Verify Now!</string>
+    <string name="download_button_text">Download from Google Play!</string>
+    <string name="next_button_text">Next</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="timetable_button_text">Your Timetable</string>
+    <string name="map_button_text">UL Campus Map</string>
+    <string name="mail_button_text">UL Student/Staff Email</string>
+    <string name="lib_button_text">Find A Book?</string>
+    <string name="hours_button_text">Opening Hours (Beta)</string>
+    <string name="links_button_text">Student Quick Links</string>
+    <string name="call_button_text">Useful Numbers</string>
+    <string name="emergency_button_text">Emergency</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="about_button_text">About</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings_text">You can update your student ID below.</string>
+    <string name="update_button_text">Update</string>
+
+</resources>
